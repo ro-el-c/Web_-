@@ -1,6 +1,7 @@
 ## 생활코딩
 생활코딩 유튜브 html, css, javascript 강의, 실습
-<br><br>
+
+[Go To Page](https://ro-el-c.github.io/Web_SaengHwalCoding/index.html)<br><br>
 
 ***
 ## What I do
